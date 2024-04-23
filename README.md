@@ -70,6 +70,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [react-native-mapbox-maps](modules/mapbox-maps)
 - [profile]()
 - [react-native-photo-editing](modules/photo-editing)
+- [react-native-social-login](modules/social-login)
 
 # Getting started: Frontend
 
