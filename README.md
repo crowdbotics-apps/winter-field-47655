@@ -63,6 +63,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [django-google-appointment](backend/modules)
 - [django-core](backend/modules)
 - [faq]()
+- [react-native-maps](modules/maps)
 
 # Getting started: Frontend
 
