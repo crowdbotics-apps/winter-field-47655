@@ -2561,6 +2561,9 @@
 "@modules/maps@file:./modules/maps":
   version "1.0.0"
 
+"@modules/maps@file:./modules/maps/":
+  version "1.0.0"
+
 "@modules/onboarding@file:./modules/onboarding":
   version "1.0.0"
   dependencies:
@@ -2573,7 +2576,7 @@
 "@modules/profile@file:./modules/profile":
   version "1.0.0"
 
-"@modules/social-login@file:./modules/social-login/":
+"@modules/social-login@file:./modules/social-login":
   version "1.0.0"
   dependencies:
     "@invertase/react-native-apple-authentication" "^2.1.0"
